@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800333452849",
+    "project_id": "natthawit-app-test",
+    "storage_bucket": "natthawit-app-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800333452849:android:7a90ff3c9a593fbfef6710",
+        "android_client_info": {
+          "package_name": "com.example.flutter_with_firebase_analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwIV5EEpbdGaFJj-FYjdx9OfGnpDmRKDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
